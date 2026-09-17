@@ -1,0 +1,8 @@
+{
+  "urls": [
+    { "name": "PyramidStore", "url": "https://raw.iqiq.io/lm317379829/PyramidStore/pyramid/py.json" },
+    { "name": "FongMi",       "url": "https://raw.iqiq.io/FongMi/TV/gh-pages/json/config.json" },
+    { "name": "YSC¶à²Ö",      "url": "https://ysc.mulink.top/ts/multi.json" },
+    { "name": "ÃþÓã",         "url": "https://tv.nxog.top/moyu.json" }
+  ]
+}
